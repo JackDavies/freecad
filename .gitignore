@@ -4,3 +4,12 @@
 *.fcstd2
 *.FCStd2
 *.FCBak
+
+*.toc
+*.gz
+*.aux
+*.pdf
+*.ps
+*.log
+*.dvi
+*.tex~
